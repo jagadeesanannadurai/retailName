@@ -1,0 +1,137 @@
+Environment variables:
+  - =::=::\
+  - =D:=D:\retail_store\src\retail_store
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANDROID_HOME=C:\Android\sdk
+  - APPDATA=C:\Users\SKEIN NEW\AppData\Roaming
+  - COMPUTERNAME=LAPTOP-GFOPJKQ7
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\SKEIN NEW
+  - JAVA_EXEC="C:\Program Files\Java\jdk1.8.0_121\\bin\java.exe"
+  - JAVA_HOME=C:\Program Files\Java\jdk1.8.0_121\
+  - LOCALAPPDATA=C:\Users\SKEIN NEW\AppData\Local
+  - LOGONSERVER=\\LAPTOP-GFOPJKQ7
+  - M2_HOME=C:\Program Files\maven
+  - MAVEN_HOME=C:\Program Files\maven
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\SKEIN NEW\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CPL
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=8e09
+  - PROJECT_HOME=D:\retail_store\src\retail_store
+  - PROMPT=$P$G
+  - PSModulePath=C:\Users\SKEIN NEW\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\app\oraclehome\product\12.1.0\dbhome_1\bin;C:\app\oracle\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.8.0_121\\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\maven\bin;C:\Program Files\maven\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\nodejs\;D:\Softwares\sonar-runner-2.4\bin;C:\Ruby24-x64\bin;C:\Users\SKEIN NEW\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\SKEIN NEW\AppData\Roaming\npm
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_RUNNER_HOME=D:\Softwares\sonar-runner-2.4\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\SKEINN~1\AppData\Local\Temp
+  - TMP=C:\Users\SKEINN~1\AppData\Local\Temp
+  - USERDOMAIN=LAPTOP-GFOPJKQ7
+  - USERDOMAIN_ROAMINGPROFILE=LAPTOP-GFOPJKQ7
+  - USERNAME=Jaga
+  - USERPROFILE=C:\Users\SKEIN NEW
+  - configsetroot=C:\WINDOWS\ConfigSetRoot
+  - windir=C:\WINDOWS
+System properties:
+  - ROOT_LOGGER_LEVEL=DEBUG
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\Softwares\sonar-runner-2.4\bin\..\lib\sonar-runner-dist-2.4.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\Program Files\Java\jdk1.8.0_121\jre
+  - java.io.tmpdir=C:\Users\SKEINN~1\AppData\Local\Temp\
+  - java.library.path=C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\oraclehome\product\12.1.0\dbhome_1\bin;C:\app\oracle\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.8.0_121\\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\maven\bin;C:\Program Files\maven\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\nodejs\;D:\Softwares\sonar-runner-2.4\bin;C:\Ruby24-x64\bin;C:\Users\SKEIN NEW\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\SKEIN NEW\AppData\Roaming\npm;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=D:\retail_store\src\retail_store
+  - runner.home=D:\Softwares\sonar-runner-2.4\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes
+  - sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_121\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonar.runner.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=US
+  - user.dir=D:\retail_store\src\retail_store
+  - user.home=C:\Users\SKEIN NEW
+  - user.language=en
+  - user.name=Jaga
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.10.0.2131 (python)
+  - SonarGo 1.1.0.1612 (go)
+  - Svn 1.7.0.1017 (scmsvn)
+  - SonarJS 4.1.0.6085 (javascript)
+  - SonarC# 7.2.0.5463 (csharp)
+  - SonarJava 5.4.0.14284 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - Git 1.4.1.1128 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarPHP 2.13.0.3107 (php)
+  - SonarTS 1.7.0.2893 (typescript)
+Global properties:
+  - sonar.core.id=AWTK_w5y5NH5Z62vtwcH
+  - sonar.core.startTime=2018-07-24T13:57:14+0530
+Settings for module: retail_store
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=D:\retail_store\src\retail_store\.
+  - sonar.projectKey=retail_store
+  - sonar.projectName=retail_store
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=D:/retail_store/src/retail_store/
+  - sonar.verbose=true
+  - sonar.working.directory=D:\retail_store\src\retail_store\.\.sonar
