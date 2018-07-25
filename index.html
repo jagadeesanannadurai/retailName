@@ -394,7 +394,7 @@
 	
 	
 	$('button').click(function(){
-	alert(this.id);
+	//alert(this.id);
 	//$('#boots').click(function(){
 	//alert(totalprice);
 	if(discount == 0){
@@ -403,10 +403,10 @@
 		{
 		if(temp[i].producttype == "groceries")
 		{
-		alert(temp[i].productprice);
+		//alert(temp[i].productprice);
 		}else{
 		var totalprice = temp[i].productprice - (temp[i].productprice / 100);
-		alert(totalprice);
+		//alert(totalprice);
 		}
 		}
 		}
@@ -418,10 +418,10 @@
 		{
 		if(temp[i].producttype == "groceries")
 		{
-		alert(temp[i].productprice);
+		//alert(temp[i].productprice);
 		}else{
 		var totalprice = (temp[i].productprice - ( temp[i].productprice * discount / 100 ));
-		alert(totalprice);
+		//alert(totalprice);
 		}
 		
 		}
@@ -502,13 +502,13 @@
 
 		
    $("#register-form-link").click(function(){
-   alert("register submit");
+   //alert("register submit");
    $("#login-page").hide();
    $("#register-page").show();
    });
 	
 	$("#login-submit").click(function(){
-	alert("login submit");
+	//alert("login submit");
 	var phone=$("#pnumber").val();
 	var password=$("#password").val();
 	
@@ -548,7 +548,7 @@
 
 	<!-- Register function -->
 	$("#register-submit1").click(function(){
-	alert("register submit");
+	//alert("register submit");
 	 //$(".test").show();
 	 //$("#category-list").show();
 	var username=$("#username").val();
@@ -596,7 +596,7 @@
 	//emp func
 
 	$("#emp-login-submit").click(function(){
-	alert("emp login");
+	//alert("emp login");
 	var phone=$("#emp-pnumber").val();
 	var password=$("#emp-password").val();
 	
@@ -631,7 +631,7 @@
 	
 	});
 	$("#emp-register-form-link").click(function(){
-	alert("reg");
+	//alert("reg");
 	$("#emp-login-page").hide();
 	$("#emp-register-page").show();
 	});
@@ -680,7 +680,7 @@
 	//3rd party func
 
 	$("#partner-login-submit").click(function(){
-	alert("emp login");
+	//alert("emp login");
 	var phone=$("#partner-pnumber").val();
 	var password=$("#partner-password").val();
 	
@@ -716,14 +716,14 @@
 	
 	});
 	$("#partner-register-form-link").click(function(){
-	alert("reg");
+	//alert("reg");
 	$("#partner-login-page").hide();
 	$("#partner-register-page").show();
 	});
 	
 	//register submit
 	$("#partner-register-submit").click(function(){
-	alert("partner-register-submit");
+	//alert("partner-register-submit");
 	var username=$("#partner-username").val();
 	var email=$("#partner-email").val();
 	var phoneNumber=$("#partner-phoneNumber").val();
